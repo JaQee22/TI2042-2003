@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mi App Jeans</string>
+    <string name="id_value">Identificador</string>
+    <string name="name_value">Nombre</string>
+    <string name="size_value">Talla</string>
+    <string name="cost_value">Precio</string>
+    <string name="brand_value">Marca</string>
+    <string name="button_load">Cargar</string>
+    <string name="button_save">Guardar</string>
+    <string name="id_hint">Ingrese el número del id</string>
+    <string name="name_hint">Modelo Del Jeans</string>
+    <string name="size_hint">Talla del Jeans</string>
+    <string name="cost_hint">Precio del Jeans</string>
+    <string name="brand_hint">Marca del Jeans</string>
+</resources>
