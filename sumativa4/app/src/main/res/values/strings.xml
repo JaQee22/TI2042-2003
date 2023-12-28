@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Humidificador</string>
+    <string name="maintitle_text">Control de Humedad</string>
+    <string name="greentext_radio">Estado Normal</string>
+    <string name="yellowtext_radio">Estado Deficiente</string>
+    <string name="redtext_radio">Estado Crítico</string>
+    <string name="humidifyButtonText">Humidificar</string>
+    <string name="dehumidifyButtonText">Deshumidificar</string>
+    <string name="offButtonText">Apagar</string>
+</resources>
